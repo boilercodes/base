@@ -57,11 +57,11 @@ will change all the files to match your repository.
 ## Features
 
 ### GitHub:
-* [Lint & Test](https://github.com/rmenai/python-structure/blob/main/.github/workflows/validate.yaml)
-  and [Build & Push](https://github.com/rmenai/python-structure/blob/main/.github/workflows/build-push.yaml) GitHub
+* [Lint & Test](https://github.com/rmenai-blueprints/base/blob/main/.github/workflows/lint-test.yaml)
+  and [Build & Push](https://github.com/rmenai-blueprints/base/blob/main/.github/workflows/build.yaml) GitHub
   workflows.
-* [Issues](https://github.com/rmenai/python-structure/tree/main/.github/ISSUE_TEMPLATE)
-  and [pull requests](https://github.com/rmenai/python-structure/blob/main/.github/pull_request_template.md) templates.
+* [Issues](https://github.com/rmenai-blueprints/base/tree/main/.github/ISSUE_TEMPLATE)
+  and [pull requests](https://github.com/rmenai-blueprints/base/blob/main/.github/pull_request_template.md) templates.
 
 <!-- CONTRIBUTING -->
 
