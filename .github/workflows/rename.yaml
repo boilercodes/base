@@ -7,7 +7,7 @@ on:
 
 jobs:
   rename:
-    if: ${{ github.repository != 'rmenai-blueprints/base' }}
+    if: ${{ github.repository != 'boilercodes/base' }}
     runs-on: ubuntu-latest
 
     steps:
