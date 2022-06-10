@@ -1,4 +1,4 @@
-# [{title}](.) &middot; [![GitHub license]](./LICENSE)
+# [{title}](./README.md) &middot; [![GitHub license]](./LICENSE)
 
 {description}.
 

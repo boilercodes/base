@@ -1,4 +1,4 @@
-# [Base Template](.) &middot; [![GitHub license]](./LICENSE)
+# [Base Template](./README.md) &middot; [![GitHub license]](./LICENSE)
 
 This is the base template for all my other templates, ranging from programming languages to popular frameworks.
 
