@@ -57,4 +57,4 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 
 <!-- Shields.io links -->
 
-[GitHub license]: https://img.shields.io/badge/license-MIT-blue.svg
+[gitHub license]: https://img.shields.io/badge/license-MIT-blue.svg

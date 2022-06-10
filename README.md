@@ -27,21 +27,19 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 
 ## Contact
 
-Rami Menai - [@menai_rami][Twitter] - [rami.menai@outlook.com][Email]
+Rami Menai - [@menai_rami][twitter] - [rami.menai@outlook.com][email]
 
 
 <!-- Repository links -->
 
-[Community Standards]: https://github.com/boilercodes/base/community
-
-[Use this template]: https://github.com/boilercodes/base/generate
+[community standards]: https://github.com/boilercodes/base/community
+[use this template]: https://github.com/boilercodes/base/generate
 
 <!-- Shields.io links -->
 
-[GitHub license]: https://img.shields.io/badge/license-MIT-blue.svg
+[gitHub license]: https://img.shields.io/badge/license-MIT-blue.svg
 
 <!-- Social Media links -->
 
-[Email]: mailto:rami.menai@outlook.com
-
-[Twitter]: https://twitter.com/menai_rami
+[email]: mailto:rami.menai@outlook.com
+[twitter]: https://twitter.com/menai_rami
