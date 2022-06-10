@@ -1,56 +1,15 @@
-<br />
-<p align="center">
-  <a href="https://github.com/{repo}">
-    <img src="https://cdn-icons-png.flaticon.com/512/581/581600.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">{title}</h3>
-
-  <p align="center">
-    {description}
-    <br />
-    <a href="https://github.com/{repo}"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/{repo}">View Demo</a>
-    ·
-    <a href="https://github.com/{repo}/issues/new?assignees=&labels=&template=bug_report.md&title=">Report Bug</a>
-    ·
-    <a href="https://github.com/{repo}/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
-  </p>
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#installation">Installation</a>
-      <ul>
-        <li><a href="#for-development">For development</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#environment-variables">Environment Variables</a>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
+# [{title}](.) &middot; [![GitHub license]](./LICENSE)
 
 {description}.
 
+<!-- Table of Contents -->
 
-<!-- INSTALLATION -->
+- [Installation](#installation)
+    - [For development](#for-development)
+    - [For production](#for-production)
+- [Environment Variables](#environment-variables)
+- [Usage](#usage)
+- [License](#license)
 
 ## Installation
 
@@ -71,6 +30,10 @@ The requirements are:
    ...
    ```
 
+### For production
+
+...
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables.
@@ -79,23 +42,19 @@ To run this project, you will need to add the following environment variables.
 |----------|-------------|---------|
 | ...      | ...         | ...     |
 
-
-<!-- USAGE EXAMPLES -->
-
 ## Usage
 
-Now you are done! You can run the project using 
+Now you are done! You can run the project using
 
 ```shell
 ...
 ```
 
-## Contributing
-
-See [CONTRIBUTING.md](https://github.com/{repo}/blob/main/CONTRIBUTING.md) for ways to get started.
-
-<!-- LICENSE -->
-
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/{repo}/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](./LICENSE) for more information.
+
+
+<!-- Shields.io links -->
+
+[GitHub license]: https://img.shields.io/badge/license-MIT-blue.svg

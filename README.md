@@ -6,7 +6,6 @@ This is the base template for all my other templates, ranging from programming l
 
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -21,10 +20,6 @@ the running action ends.
 
 * [Issues](./.github/ISSUE_TEMPLATE) and [Pull Requests](./.github/pull_request_template.md) templates.
 * [Community Standards] files.
-
-## Contributing
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways to get started.
 
 ## License
 
