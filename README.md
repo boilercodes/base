@@ -18,8 +18,8 @@ the running action ends.
 
 ### GitHub
 
-* [Issues](./.github/ISSUE_TEMPLATE) and [Pull Requests](./.github/pull_request_template.md) templates.
-* [Community Standards] files.
+- [Community Standards] files.
+- [Issues](./.github/ISSUE_TEMPLATE) and [Pull Requests](./.github/pull_request_template.md) templates.
 
 ## License
 
@@ -30,18 +30,18 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 Rami Menai - [@menai_rami][Twitter] - [rami.menai@outlook.com][Email]
 
 
-<!-- Social Media links -->
-
-[Twitter]: https://twitter.com/menai_rami
-
-[Email]: mailto:rami.menai@outlook.com
-
 <!-- Repository links -->
 
-[Use this template]: https://github.com/boilercodes/base/generate
-
 [Community Standards]: https://github.com/boilercodes/base/community
+
+[Use this template]: https://github.com/boilercodes/base/generate
 
 <!-- Shields.io links -->
 
 [GitHub license]: https://img.shields.io/badge/license-MIT-blue.svg
+
+<!-- Social Media links -->
+
+[Email]: mailto:rami.menai@outlook.com
+
+[Twitter]: https://twitter.com/menai_rami
