@@ -1,7 +1,5 @@
 # [{title}](./README.md) &middot; [![GitHub license]](./LICENSE)
 
-{description}.
-
 <!-- Table of Contents -->
 
 - [Installation](#installation)
